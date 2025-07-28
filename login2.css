@@ -1,0 +1,62 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+*/
+
+
+img{
+    height: auto;
+     border-radius:50%;
+
+    
+}
+body{
+    background-color:white green;
+    background-image: url(login2.jpg);
+        background-size: cover;       
+        background-repeat: no-repeat;
+        background-position: center;  
+        
+    }
+input[type="password"]{
+    background-color: black;
+     width: 35%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type="email"]{
+    background-color: black;
+     width: 35%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type="submit"]{
+    margin-top: 10px;
+    height:50px;
+    width:375px;
+    font-size: 25px;
+    background-color: rgb(50, 179, 113);
+
+}
+label{
+    margin-right: 25%;
+}
+form{
+    background-color:#0100008c;
+    margin-top: 20px;
+    padding: 15px;
+border-radius: 10px;
+}
